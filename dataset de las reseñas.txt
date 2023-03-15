@@ -1,0 +1,5 @@
+Dataset de reviews -> video_Games.jason.gz
+Enlace de descarga: https://drive.google.com/file/d/1MVXNnQ--e9wawe1W5jHLijJtCw1FLHgR/view?usp=share_link
+
+nota: se sube en un archivo de texto el enlace porque como pesa mucho el comprimido, no se pudo subir
+por lo que para acceder a el hay que entrar en el enlace.
